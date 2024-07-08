@@ -37,7 +37,5 @@ Cooking,Watching Movies,Reading Mythological Stories
 Languages known:
 English,Knnada,Telugu
 
-Certification:
-
 Declaration:
 I hereby declare that the above furnished information is true  to the best of my knowledge.
